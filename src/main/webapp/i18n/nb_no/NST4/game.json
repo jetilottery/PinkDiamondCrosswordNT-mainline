@@ -1,0 +1,112 @@
+{
+  "version":"",
+  "Paytable": {
+    "RTPvalue": "{@minRTP} %",
+    "RTPrange": "{@minRTP} % til {@maxRTP} %",
+    "paybackTitle": "Premieandel",
+    "paybackBody": "For dette spillet er langsiktig, teoretisk oppgitt premieandel {RTP}.",
+    "subheading": "Pris: {ticketCost}",
+		  "overallChances": "Det er en samlet vinnersjanse på 1 til {odds} for å vinne en premie på hvert spill.",
+	  "prizeLevel": "Premienivå",
+	  "prizeDivision": "Premieoversikt",
+	  "prizeValue": "Premieverdi",
+	  "prizeRemaining": "Omtrentlige gjenværende premier",
+	  "oddsPerPlay": "Vinnersjanse per spill",
+    "description":"Beskrivelse",
+    
+    "descriptions": [
+      "Matchet 10 ord",
+      "Matchet 9 ord",
+      "Matchet 8 ord",
+      "Matchet 7 ord",
+      "Matchet 6 ord",
+      "Matchet 5 ord",
+      "Matchet 4 ord",
+      "Matchet 3 ord"
+    ]
+  },
+
+  "title": "ROSA DIAMANT KRYSSORD",
+  
+  "MenuCommand": {
+		"price": "Pris",
+		"stake": "Innsats",
+		"howToPlay": "Slik spiller du",
+		"paytable": "Premieoversikt",
+		"close": "Lukk",
+		"audio": {
+			"sound": "Lyd",
+			"on": "På",
+			"off": "Av"
+		}
+  },
+
+  "Game": {
+    "footer_balance": "SALDO",
+    "footer_ticketCost": "PRIS",
+    "ticketSelect_ticketCost": "PRIS",
+    "ticketCostPrefix": {
+      "BUY": " ",
+      "TRY": "PRØVESPILL "
+    },
+    "footer_win": {
+      "BUY": "PREMIE",
+      "TRY": "PREMIE PRØVESPILL"
+    },
+
+    "button_buy": {
+      "BUY": "SPILL",
+      "TRY": "PRØVESPILL"
+    },
+    "button_try": "PRØVESPILL",
+    "button_continue": "FORTSETT",
+    "button_moveToMoney": "SPILL FOR EKTE PENGER",
+    "button_autoPlay": "FULLFØR",
+    "button_stop": "STOPP",
+    "button_playAgain":{
+      "BUY": "SPILL ",
+      "TRY": "PRØVESPILL"
+    },
+    "button_tryAgain": "SPILL IGJEN",
+    "button_ok": "OK",
+    "button_exit": "AVSLUTT",
+    "button_close": "LUKK",
+    
+    "error_button_exit": "AVSLUTT",
+    "error_title": "FEIL",
+    
+    "message_nonWin": "BEKLAGER INGEN PREMIE!",
+    "message_congratulations": {
+      "BUY": "GRATULERER",
+      "TRY": "PREMIE PRØVESPILL "
+    },
+    "message_win": {
+      "BUY": "DU VANT!",
+      "TRY": "Hadde dette vært et spill for ekte penger,\nhadde du vunnet"
+    },
+    
+    "howToPlay": "SLIK SPILLER DU",
+    "howToPlayContent": "Trykk på STOPP for å stoppe de spinnende skivene og avdekke DINE BOKSTAVER.\n\nVelg bokstavene i kryssordet som matcher med DINE BOKSTAVER for å markere dem.\n\nEn ekstra bokstav tildeles dersom den rosa diamanten lander på riktig posisjon.\n\nMatch alle bokstavene med 3 til 10 ord for å vinne.",
+    
+    "yourLetters": "DINE BOKSTAVER",
+    "bonusLetters": "EKSTRA BOKSTAVER",
+    "prizeTable": "PREMIEOVERSIKT",
+    "hints": "HINT",
+    "autoMark": "AUTOMATISK MARKERING",
+    "autoPlay": "FULLFØR",
+
+    "prizeLabel1": "3 ORD",
+    "prizeLabel2": "4 ORD",
+    "prizeLabel3": "5 ORD",
+    "prizeLabel4": "6 ORD",
+    "prizeLabel5": "7 ORD",
+    "prizeLabel6": "8 ORD",
+    "prizeLabel7": "9 ORD",
+    "prizeLabel8": "10 ORD"
+  },
+  "Error": {
+    "errorCodePrefix": "Feil: ",
+    "genericErrorText": "Det har oppstått en intern feil. AVSLUTT og start spillet på nytt."
+  }
+}
+
